@@ -1,0 +1,5 @@
+import demographic_data_analyzer_SOLUTION
+import pandas as pd
+from unittest import main
+
+demographic_data_analyzer_SOLUTION.calculate_demographic_data()
